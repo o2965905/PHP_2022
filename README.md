@@ -5,3 +5,4 @@
 * [if else判斷式](0919_3.php)
 * [rand + if else 的設計](0919_4.php)
 * [自主練習 : 抽卡機率](0919_5.php)
+* [存在式:isset/empty/is_null](0919_6.php)
