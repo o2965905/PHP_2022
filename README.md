@@ -7,4 +7,4 @@
 * [自主練習 : 抽卡機率](0919_5.php)
 * [存在式:isset/empty/is_null](0919_6.php)
 * [加強 isset/empty/is_null觀念](0920_1.php)
-* [&&(AND) / ||(OR)](0920_2.php)
+* [&& (AND) 與 || (OR)](0920_2.php)
