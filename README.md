@@ -9,3 +9,4 @@
 * [加強 isset/empty/is_null觀念](0920_1.php)
 * [&& (AND) 與 || (OR)](0920_2.php)
 * [三元運算子](0920_3.php)
+* [switch case](0920_4.php)
